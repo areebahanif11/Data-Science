@@ -1,9 +1,9 @@
-Introduction
+# Introduction
 Welcome to the first lecture of Data Science! In this session, we will introduce the fundamentals of Data Science, how it differs from related fields such as Machine Learning and Deep Learning, and discuss the essential skills required for success in this discipline. By the end of this lecture, you will have a clear understanding of what Data Science entails and what you need to know to begin your journey in this exciting field.
 
  
 
-1. What is Data Science?
+# 1. What is Data Science?
 Data Science is an interdisciplinary field that combines several key areas:
 
 Statistics
@@ -14,7 +14,7 @@ This interdisciplinary approach allows Data Science professionals to work on com
 
  
 
-2. Data Science vs. Machine Learning and Deep Learning
+# 2. Data Science vs. Machine Learning and Deep Learning
 A common question arises about how Data Science differs from Machine Learning (ML) and Deep Learning (DL). Here's a comparison to clarify:
 
 Machine Learning: Focuses primarily on studying algorithms and models that learn from data.
