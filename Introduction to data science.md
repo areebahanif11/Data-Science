@@ -28,7 +28,7 @@ In short, while ML and DL are focused on model development, Data Science spans t
 
  
 
-3. The Data Science Process
+# 3. The Data Science Process
 The Data Science process involves several key steps, as outlined below:
 
 Problem Formulation
@@ -45,10 +45,10 @@ Presentation of Insights
 After generating insights from the model, these findings need to be communicated to non-technical stakeholders, such as CEOs, directors, and management. Visualization tools are often used to make the insights more understandable.
  
 
-4. Essential Skill Set for Data Scientists
+# 4. Essential Skill Set for Data Scientists
 A Data Scientist needs a diverse set of skills to be effective in this field. These skills can be categorized into technical knowledge and soft skills:
 
-Technical Skills
+# Technical Skills
 Statistics: A solid foundation in statistics is crucial for understanding data distributions, hypothesis testing, and building models.
 Machine Learning: Knowledge of machine learning algorithms is essential for data analysis and building predictive models.
 Programming (Python): Python is the most commonly used programming language in Data Science due to its rich libraries (such as pandas, numpy, scikit-learn) for data manipulation and modeling.
@@ -59,7 +59,7 @@ Problem-Solving and Critical Thinking: A Data Scientist must be able to approach
 Storytelling with Data: The ability to craft a narrative around the data findings is crucial for influencing stakeholders.
  
 
-5. Final Thoughts
+# 5. Final Thoughts
 Data Science is an exciting and versatile field that blends technical knowledge and creative problem-solving skills. It encompasses the entire process from understanding the problem to deploying solutions and communicating them effectively to decision-makers. The key to success in Data Science lies not only in mastering the technical skills but also in developing the soft skills needed to communicate insights and influence decision-making.
 
 We are about to embark on a learning journey that will cover these aspects in more detail. Stay excited and ready to delve deeper into the fascinating world of Data Science!
